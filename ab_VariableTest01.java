@@ -1,4 +1,4 @@
-public class ab_VariableTest {
+public class ab_VariableTest01 {
     // 主入口
     public static void main(String[] args) {
         // 一开始没有乘客
