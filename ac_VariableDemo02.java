@@ -1,4 +1,4 @@
-public class ab_VariableDemo02 {
+public class ac_VariableDemo02 {
     // 主入口
     public static void main(String[] args) {
         // byte
