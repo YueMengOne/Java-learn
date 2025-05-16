@@ -1,4 +1,4 @@
-// 导包
+package com.yuemeng.Scanner;// 导包
 import java.util.Scanner;
 
 public class ac_ScannerText01 {

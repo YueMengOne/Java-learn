@@ -1,3 +1,5 @@
+package com.yuemeng.Variable;
+
 public class ab_VariableTest07 {
     public static void main(String[] args) {
         // 班级里有 100 个学员

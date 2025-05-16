@@ -1,3 +1,5 @@
+package com.yuemeng.Value;
+
 public class aa_ValueDemo01 {
     public static void main(String[] args) {
         // 整数

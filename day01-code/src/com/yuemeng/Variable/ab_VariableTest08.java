@@ -1,3 +1,5 @@
+package com.yuemeng.Variable;
+
 public class ab_VariableTest08 {
     public static void main(String[] args) {
         // 选用合适的数据类型定义变量用于描述一个学员的信息，并将其输出到屏幕上。

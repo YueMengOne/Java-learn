@@ -1,3 +1,5 @@
+package com.yuemeng.Variable;
+
 public class ab_VariableTest05 {
     // 主入口
     public static void main(String[] args) {

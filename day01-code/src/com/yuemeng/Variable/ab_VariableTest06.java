@@ -1,3 +1,5 @@
+package com.yuemeng.Variable;
+
 public class ab_VariableTest06 {
     public static void main(String[] args) {
         // 分别定义 8 种基本数据类型的变量，并打印变量的值
