@@ -1,7 +1,7 @@
 package com.yuemeng.Scanner;// 导包
 import java.util.Scanner;
 
-public class ac_ScannerText01 {
+public class ac_ScannerTest01 {
     public static void main(String[] args) {
         // 创建对象
         Scanner sc = new Scanner(System.in);
