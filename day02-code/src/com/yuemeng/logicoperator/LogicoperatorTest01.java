@@ -2,7 +2,7 @@ package com.yuemeng.logicoperator;
 
 import java.util.Scanner;
 
-public class LogicoperatorText01 {
+public class LogicoperatorTest01 {
     public static void main(String[] args) {
         /*
         * 数字 6 是一个真正伟大的数字，键盘录入两个整数。

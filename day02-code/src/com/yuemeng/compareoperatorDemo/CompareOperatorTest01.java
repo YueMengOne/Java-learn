@@ -2,7 +2,7 @@ package com.yuemeng.compareoperatorDemo;
 
 import java.util.Scanner;
 
-public class CompareOperatorText01 {
+public class CompareOperatorTest01 {
     public static void main(String[] args) {
         /*
         * 您和您的约会对象在餐厅里面正在约会。
