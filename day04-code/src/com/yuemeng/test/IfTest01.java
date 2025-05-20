@@ -1,8 +1,8 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
 import java.util.Scanner;
 
-public class IfText01 {
+public class IfTest01 {
     public static void main(String[] args) {
         /*
         * 题目 1:

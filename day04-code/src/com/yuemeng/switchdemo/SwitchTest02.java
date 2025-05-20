@@ -2,7 +2,7 @@ package com.yuemeng.switchdemo;
 
 import java.util.Scanner;
 
-public class SwitchText02 {
+public class SwitchTest02 {
     public static void main(String[] args) {
         /*
         * 休息日和工作日：

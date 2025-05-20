@@ -1,6 +1,6 @@
 package com.yuemeng.ifdemo;
 
-public class IfText01 {
+public class IfTest01 {
     public static void main(String[] args) {
         /*
         * 自动驾驶：

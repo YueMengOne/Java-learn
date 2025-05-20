@@ -2,7 +2,7 @@ package com.yuemeng.ifdemo;
 
 import java.util.Scanner;
 
-public class IfText02 {
+public class IfTest02 {
     public static void main(String[] args) {
         /*
         * 商品付款：

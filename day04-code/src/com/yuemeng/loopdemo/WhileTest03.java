@@ -1,13 +1,14 @@
-package com.yuemeng.text;
+package com.yuemeng.loopdemo;
 
 import java.util.Scanner;
 
-public class ForText05 {
+public class WhileTest03 {
     public static void main(String[] args) {
         /*
-        * 给定两个整数，被除数dividend和除数divisor（都是正数，且不超过int的范围） 。
+        * 求商和余数：
+        * 给定两个整数，被除数和除数（都是正数，且不超过 int 的范围）
         * 将两数相除，要求不使用乘法、除法和 % 运算符。
-        * 得到商和余数。
+        * 得到商和余数
         */
 
         // 1. 键盘录入两个整数，被除数和除数
@@ -21,14 +22,14 @@ public class ForText05 {
         int quotient = 0;
         int remainder = 0;
 
-        // 3. 循环相减，直到被除数小于除数
+        // 3. 使用while循环，求商和余数
         while (dividend >= divisor) {
             dividend -= divisor;
             quotient++;
+            remainder = dividend;
         }
 
-        // 4. 输出商和余数
         System.out.println("商：" + quotient);
-        System.out.println("余数：" + dividend);
+        System.out.println("余数：" + remainder);
     }
 }

@@ -1,6 +1,6 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
-public class IfText02 {
+public class IfTest02 {
     public static void main(String[] args) {
         /*
         * 题目 4:

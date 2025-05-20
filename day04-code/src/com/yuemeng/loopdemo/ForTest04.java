@@ -1,6 +1,6 @@
 package com.yuemeng.loopdemo;
 
-public class ForText04 {
+public class ForTest04 {
     public static void main(String[] args) {
         /*
         * 求和:

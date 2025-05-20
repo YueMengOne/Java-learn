@@ -1,6 +1,6 @@
 package com.yuemeng.loopdemo;
 
-public class ForText01 {
+public class ForTest01 {
     public static void main(String[] args) {
         // 打印 1-5 和 5-1
 

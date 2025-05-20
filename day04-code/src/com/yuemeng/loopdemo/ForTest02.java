@@ -1,6 +1,6 @@
 package com.yuemeng.loopdemo;
 
-public class ForText02 {
+public class ForTest02 {
     public static void main(String[] args) {
         /*
         * 断线重连:

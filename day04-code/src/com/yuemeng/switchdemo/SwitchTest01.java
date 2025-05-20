@@ -2,7 +2,7 @@ package com.yuemeng.switchdemo;
 
 import java.util.Scanner;
 
-public class SwitchText01 {
+public class SwitchTest01 {
     public static void main(String[] args) {
         /*
         * 运动计划：

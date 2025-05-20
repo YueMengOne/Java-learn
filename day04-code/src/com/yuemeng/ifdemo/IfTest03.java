@@ -2,7 +2,7 @@ package com.yuemeng.ifdemo;
 
 import java.util.Scanner;
 
-public class IfText03 {
+public class IfTest03 {
     public static void main(String[] args) {
         /*
         * 影院选座：

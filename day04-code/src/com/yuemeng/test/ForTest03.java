@@ -1,8 +1,6 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
-import java.util.Scanner;
-
-public class ForText03 {
+public class ForTest03 {
     public static void main(String[] args) {
         /*
         * 世界最高山峰是珠穆朗玛峰(8844.43米=8844430毫米)

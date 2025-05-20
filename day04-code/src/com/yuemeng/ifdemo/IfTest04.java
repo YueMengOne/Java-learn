@@ -2,7 +2,7 @@ package com.yuemeng.ifdemo;
 
 import java.util.Scanner;
 
-public class IfText04 {
+public class IfTest04 {
     public static void main(String[] args) {
         /*
         * 小明的礼物：

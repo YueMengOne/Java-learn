@@ -2,7 +2,7 @@ package com.yuemeng.loopdemo;
 
 import java.util.Scanner;
 
-public class ForText05 {
+public class ForTest05 {
     public static void main(String[] args) {
         /*
         * 统计满足条件的数字：

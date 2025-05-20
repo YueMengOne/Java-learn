@@ -1,8 +1,8 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
 import java.util.Scanner;
 
-public class SwitchText01 {
+public class SwitchTest01 {
     public static void main(String[] args) {
         /*
         * 模拟计算器功能，对键盘录入的两个int类型的数据进行加、减、乘、除的运算

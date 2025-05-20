@@ -1,6 +1,6 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
-public class ForText07 {
+public class ForTest07 {
     public static void main(String[] args) {
         /*
         * 中国有闰年的说法。

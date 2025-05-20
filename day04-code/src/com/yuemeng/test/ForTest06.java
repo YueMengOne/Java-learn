@@ -1,6 +1,6 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
-public class ForText06 {
+public class ForTest06 {
     public static void main(String[] args) {
         /*
         * 已知2019年是猪年

@@ -1,8 +1,8 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
 import java.util.Scanner;
 
-public class IfText03 {
+public class IfTest03 {
     public static void main(String[] args) {
         /*
         * 2019年1月1日起，国家推出新的个人所得税政策，起征点上调值5000元。

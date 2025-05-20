@@ -2,7 +2,7 @@ package com.yuemeng.switchdemo;
 
 import java.util.Scanner;
 
-public class SwitchText03 {
+public class SwitchTest03 {
     public static void main(String[] args) {
         /*
         * 用户选择：

@@ -1,6 +1,6 @@
 package com.yuemeng.loopdemo;
 
-public class WhileText01 {
+public class WhileTest01 {
     public static void main(String[] args) {
         /*
         * 世界最高山峰是珠穆朗玛峰（8844.43米=8844430毫米）

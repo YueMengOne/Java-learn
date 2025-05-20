@@ -2,7 +2,7 @@ package com.yuemeng.ifdemo;
 
 import java.util.Scanner;
 
-public class IfText05 {
+public class IfTest05 {
     public static void main(String[] args) {
         /*
         * 商品的价格：

@@ -1,8 +1,8 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
 import java.util.Scanner;
 
-public class ForText04 {
+public class ForTest04 {
     public static void main(String[] args) {
         /*
         * 需求：

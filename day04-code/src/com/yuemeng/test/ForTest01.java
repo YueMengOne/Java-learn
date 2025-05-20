@@ -1,8 +1,8 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
 import java.util.Scanner;
 
-public class ForText01 {
+public class ForTest01 {
     public static void main(String[] args) {
         /*
         * 键盘录入两个数字number1和number2表示一个范围

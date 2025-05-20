@@ -2,7 +2,7 @@ package com.yuemeng.loopdemo;
 
 import java.util.Scanner;
 
-public class WhileText02 {
+public class WhileTest02 {
     public static void main(String[] args) {
         /*
         * 回文数：
