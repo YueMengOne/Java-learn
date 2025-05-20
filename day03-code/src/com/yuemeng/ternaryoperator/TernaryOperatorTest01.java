@@ -2,7 +2,7 @@ package com.yuemeng.ternaryoperator;
 
 import java.util.Scanner;
 
-public class TernaryOperatorText01 {
+public class TernaryOperatorTest01 {
     public static void main(String[] args) {
         /*
         * 动物园里有两只老虎，体重分别通过键盘录入获得，

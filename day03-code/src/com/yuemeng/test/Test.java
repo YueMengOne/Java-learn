@@ -1,8 +1,8 @@
-package com.yuemeng.text;
+package com.yuemeng.test;
 
 import java.util.Scanner;
 
-public class Text {
+public class Test {
     public static void main(String[] args) {
         /*
         * 题目 1:

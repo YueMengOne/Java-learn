@@ -1,8 +1,6 @@
 package com.yuemeng.ternaryoperator;
 
-import java.util.Scanner;
-
-public class TernaryOperatorText02 {
+public class TernaryOperatorTest02 {
     public static void main(String[] args) {
         /*
         * 一座寺庙里住着三个和尚
