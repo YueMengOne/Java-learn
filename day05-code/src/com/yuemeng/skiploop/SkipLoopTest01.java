@@ -1,6 +1,6 @@
 package com.yuemeng.skiploop;
 
-public class SkipLoopDemo01 {
+public class SkipLoopTest01 {
     public static void main(String[] args) {
         // 1.跳过某一次循环
         for (int i = 0; i < 10; i++) {
